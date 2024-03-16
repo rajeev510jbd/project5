@@ -1,0 +1,133 @@
+.container
+{
+    height: 490px;
+    width: 550px;
+   background-color: #9dd2ea;
+   margin: 90px auto;
+   border-radius: 10px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   flex-direction: column;
+}
+.div1
+{
+    height: 50px;
+    width: 120px;
+    background-color:#F1FF92 ;
+    font-family: cursive;
+    text-align: center;
+
+}
+.div2
+{
+    height:150px ;
+    width: 450px;
+    background-color: #9da0ea;
+    font-size: 70px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+.hello2
+{
+    font-size: larger;
+    margin-top: -15px;
+    font-family: cursive;
+    
+}
+.hello1
+{
+    font-size: larger;
+    margin-top: -15px;
+    font-family: cursive;
+}
+.hello3
+{
+    font-size: larger;
+    margin-top: -15px;
+    font-family: cursive;
+}
+
+.div3
+{
+    height:50px ;
+    width: 450px;
+    background-color: #b481d9;
+    font-family: cursive;
+    text-align: center;
+}
+.div4
+{
+height: 85px;
+width: 450px;
+
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.div5
+{
+    height:90px ;
+    width: 450px;
+    display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.pro1
+{
+   height: 15px;
+width: 95px;
+padding: 8px;
+background-color: rgba(255, 255, 255, 0.5);
+font-family: cursive;
+    text-align: center;
+    margin-left: 150px;
+    cursor: pointer;
+   
+}
+.pro2
+{
+   height: 15px;
+width: 170px;
+padding: 8px;
+background-color: rgba(16, 181, 60, 0.5);
+font-family: cursive;
+    text-align: center;
+
+    
+}
+
+.try1
+{
+    height: 85px;
+    width: 85px;
+    background-color:rgb(111, 208, 222);
+    font-size: larger;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+.try2
+{
+    height: 85px;
+    width: 85px;
+    background-color: rgb(143, 211, 165);
+}
+
+.try3
+{
+    height: 85px;
+    width: 85px;
+    background-color: rgb(232, 223, 167);
+}
+.try4
+{
+    height: 85px;
+    width: 85px;
+    background-color: rgb(203, 159, 192);
+    
+}
